@@ -1,6 +1,9 @@
 # OSX leaves these everywhere on SMB shares
 ._*
 
+# visual studio workspace
+*.code_workspace
+
 # OSX trash
 .DS_Store
 
